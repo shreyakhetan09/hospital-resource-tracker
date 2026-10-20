@@ -13,6 +13,12 @@ part of getting treatment was simply *knowing where capacity existed*.
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
+**Use case.** A city-wide capacity board for surge response: each hospital
+publishes beds / ICU / oxygen / vaccines; patients see who can take them
+*this hour*, not yesterday.
+
+![Public availability board](https://user-images.githubusercontent.com/79561540/236925613-7d684a8d-6e6f-4a10-b0e8-951071850a47.png)
+
 ---
 
 ## Why it matters
@@ -111,5 +117,4 @@ resources_input.html   logged-in resource-update form
 ![Landing page](https://user-images.githubusercontent.com/79561540/236925510-1b7415a5-97c9-421b-a459-b46381bcd03d.png)
 ![Hospital sign-up](https://user-images.githubusercontent.com/79561540/236925537-6ef6afd1-76cc-46e2-adbe-0fb8f201dbd7.png)
 ![Resource update dashboard](https://user-images.githubusercontent.com/79561540/236925574-71f2ef49-dccd-454b-858d-12b547196a8e.png)
-![Public availability board](https://user-images.githubusercontent.com/79561540/236925613-7d684a8d-6e6f-4a10-b0e8-951071850a47.png)
 ![Paginated hospitals](https://user-images.githubusercontent.com/79561540/236925692-33b5d667-e592-43cb-bc1c-06e52983ea00.png)
