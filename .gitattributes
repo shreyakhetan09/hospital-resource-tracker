@@ -1,0 +1,2 @@
+# Jinja templates shouldn't count as the project's primary language
+*.html linguist-detectable=false
